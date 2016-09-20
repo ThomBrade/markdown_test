@@ -1,3 +1,5 @@
-This is an exaxmple markdown file to demoinstrate git.
+This is an example markdown file to demonstrate git.
 
 This is the first change.
+
+# Another Header!!
